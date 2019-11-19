@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/loudywen/react-demo1/static/css/main.8d65d179.chunk.css",
+    "main.js": "/loudywen/react-demo1/static/js/main.0c8bcbb8.chunk.js",
+    "main.js.map": "/loudywen/react-demo1/static/js/main.0c8bcbb8.chunk.js.map",
+    "runtime-main.js": "/loudywen/react-demo1/static/js/runtime-main.bfaf564c.js",
+    "runtime-main.js.map": "/loudywen/react-demo1/static/js/runtime-main.bfaf564c.js.map",
+    "static/js/2.bce2a7e5.chunk.js": "/loudywen/react-demo1/static/js/2.bce2a7e5.chunk.js",
+    "static/js/2.bce2a7e5.chunk.js.map": "/loudywen/react-demo1/static/js/2.bce2a7e5.chunk.js.map",
+    "index.html": "/loudywen/react-demo1/index.html",
+    "precache-manifest.4b0390a32a7037e43ec30b84c3376e27.js": "/loudywen/react-demo1/precache-manifest.4b0390a32a7037e43ec30b84c3376e27.js",
+    "service-worker.js": "/loudywen/react-demo1/service-worker.js",
+    "static/css/main.8d65d179.chunk.css.map": "/loudywen/react-demo1/static/css/main.8d65d179.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfaf564c.js",
+    "static/js/2.bce2a7e5.chunk.js",
+    "static/css/main.8d65d179.chunk.css",
+    "static/js/main.0c8bcbb8.chunk.js"
+  ]
+}
